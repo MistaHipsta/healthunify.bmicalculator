@@ -1,4 +1,3 @@
-/*
 package org.test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -110,4 +109,3 @@ public class TestCalculator {
     }
 
 }
-*/
